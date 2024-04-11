@@ -4,11 +4,9 @@ description: >-
   a test order and see the order management process.
 ---
 
-# 10-Minute Quickstart
+# Quickstart
 
-{% embed url="https://youtu.be/Cd171XS0IGI" %}
-Quickstart video tutorial
-{% endembed %}
+
 
 ## Quick-start Steps
 
