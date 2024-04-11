@@ -7,9 +7,7 @@ description: >-
 
 # Customize Your Design
 
-{% embed url="https://youtu.be/g3ibBakpqMU" %}
-Design video tutorial
-{% endembed %}
+
 
 ## How To Customize Your Design
 
