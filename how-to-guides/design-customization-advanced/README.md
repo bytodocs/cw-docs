@@ -1,7 +1,7 @@
 ---
 description: >-
   Additional guides explaining more detailed customization options within the
-  CloudWaitress platform.
+  BYTO platform.
 ---
 
 # Advanced Customization
