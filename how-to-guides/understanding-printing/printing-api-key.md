@@ -6,7 +6,7 @@ description: >-
 
 # Printing - API Key
 
-1\. Login to your CloudWaitress account at [admin.cloudwaitress.com](https://admin.cloudwaitress.com/login?redirect=%2F) and go to Settings>System>Receipt Printing>Create Printer.
+1\. Login to your BYTO account at [https://www.byto.com.au/](https://admin.byto.com.au/login) and go to Settings>System>Receipt Printing>Create Printer.
 
 ![](../../.gitbook/assets/1-create-printer.png)
 
