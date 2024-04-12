@@ -3,7 +3,7 @@
 * [Overview](README.md)
 * [Getting Started](getting-started/README.md)
   * [Hardware Requirements](getting-started/hardware-requirements-1.md)
-  * [10-Minute Quickstart](getting-started/10-minute-quickstart.md)
+  * [Quickstart](getting-started/10-minute-quickstart.md)
   * [Setup Your Menus](getting-started/setup-your-menus.md)
   * [Configure Your Services](getting-started/configure-your-services.md)
   * [Customize Your Design](getting-started/customize-your-design.md)
