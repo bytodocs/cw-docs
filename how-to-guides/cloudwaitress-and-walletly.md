@@ -22,7 +22,7 @@ To ensure your order is successful, make sure your order amount exceeds $100 and
 
 ## <mark style="color:purple;">Step 03: Complete the test order</mark>
 
-After you have placed your order on the CW store website, you will need to log in to your account on the BYTO website to ensure that your order is complete. To do this, please follow the instructions below:
+After you have placed your order on the BYTO store website, you will need to log in to your account on the BYTO website to ensure that your order is complete. To do this, please follow the instructions below:
 
 1\) Go to the your website\
 2\) Enter your login credentials. \
@@ -59,12 +59,12 @@ After your transaction has been completed and your payment has been processed, y
 1\) Log in to the BYTO Widget using your login credentials\
 2\) Check your point balance on the Widget dashboard. Your points earned should be reflected here.
 
-### Option 2: Log in to your CW account
+### Option 2: Log in to your BYTO account
 
 1\)  Log in to your BYTO account using your login credentials\
 2\) Check the top-end corner of the BYTO store page. Your points earned should be displayed here.
 
-Either of these methods will allow you to verify that your points have been correctly credited to your CW account. If you notice any discrepancies or issues with your point balance, please contact BYTO customer support for assistance.&#x20;
+Either of these methods will allow you to verify that your points have been correctly credited to your BYTO account. If you notice any discrepancies or issues with your point balance, please contact BYTO customer support for assistance.&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.22.51 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
