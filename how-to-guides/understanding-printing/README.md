@@ -1,6 +1,6 @@
 ---
 description: >-
-  Use our guides below for assistance on connecting up your CloudWaitress online
+  Use our guides below for assistance on connecting up your BYTO online
   ordering store to your printer.
 ---
 
