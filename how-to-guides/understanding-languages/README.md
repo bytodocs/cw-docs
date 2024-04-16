@@ -1,7 +1,7 @@
 ---
 description: >-
   More information on using and customising the language settings inside of
-  CloudWaitress.
+  BYTO.
 ---
 
 # Understanding Languages
