@@ -1,7 +1,7 @@
 ---
 description: >-
   A quick overview video of how to add custom checkout fields per service in
-  CloudWaitress.
+  BYTO.
 ---
 
 # Setup Custom Checkout Fields
