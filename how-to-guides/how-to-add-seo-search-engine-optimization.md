@@ -10,7 +10,7 @@ description: >-
 
 ### Steps:
 
-1. Log in to your account [https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Log in to your account [https://admin.byto.com.au/login](https://admin.byto.com.au/login)
 2.  Go to Settings > Website > Search Engine Optimization
 
     <figure><img src="../.gitbook/assets/Screen Shot 2023-10-09 at 8.16.45 AM (1).png" alt=""><figcaption></figcaption></figure>
