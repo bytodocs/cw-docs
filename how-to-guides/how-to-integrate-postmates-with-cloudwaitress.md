@@ -2,7 +2,7 @@
 description: Postmates is a last mile delivery services operating in the USA.
 ---
 
-# How to integrate Postmates with CloudWaitress
+# How to integrate Postmates with BYTO
 
 ## POSTMATES Integration
 
@@ -14,7 +14,7 @@ description: Postmates is a last mile delivery services operating in the USA.
 
 
 
-## How to set-up CloudWaitress > Postmates integration
+## How to set-up BYTO > Postmates integration
 
 {% tabs %}
 {% tab title="How to generate the Webhook?" %}
@@ -81,7 +81,7 @@ Once you enter in your restaurant information, you will be redirected to the Pos
 IMPORTANT - The following settings must be applied for the Postmates integration to work.
 {% endhint %}
 
-**In Cloudwaitress the following settings must be applied;**
+**In BYTO the following settings must be applied;**
 
 1\. Generate and add the webhook to Postmates (details above)
 
@@ -111,4 +111,4 @@ Note: You can set different timings for these fields and you can use the other f
 
 *   **What if I already have a Postmates account and are on their app? Do I still need a developer account?**
 
-    You should already have access to the Developer section of Postmates, and all you will need to do is copy the existing keys into the CloudWaitress Admin Dashboard.
+    You should already have access to the Developer section of Postmates, and all you will need to do is copy the existing keys into the BYTO Admin Dashboard.
