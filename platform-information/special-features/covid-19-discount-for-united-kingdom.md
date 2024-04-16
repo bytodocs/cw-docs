@@ -17,7 +17,7 @@ Below shows an example of the COVID-19 discount applied to the checkout.
 
 ## Set-up Process
 
-CloudWaitress supports the COVID-19 Discount for Dine-In orders with the following settings;
+BYTO supports the COVID-19 Discount for Dine-In orders with the following settings;
 
 ![Go to Settings > System > Promo Codes > Create Promo Code](../../.gitbook/assets/covid0.png)
 
