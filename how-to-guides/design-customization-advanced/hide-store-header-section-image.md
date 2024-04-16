@@ -1,5 +1,5 @@
 ---
-description: How to Hide the Store Header Section in your CloudWaitress store
+description: How to Hide the Store Header Section in your BYTO store
 ---
 
 # Hide Store Header Section (image)
